@@ -10,5 +10,5 @@ console.table([UserID,accountName,accountMail,accountLocation,accountState]); //
 
 
 /*
-Going forwand stop using var as a variable type as it is outdated and has some issues with block scope and functional scope.
+Going forward stop using var as a variable type as it is outdated and has some issues with block scope and functional scope.
 */
