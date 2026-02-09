@@ -10,3 +10,5 @@ const repoCount = 50
 
 console.log(`Hello my name is ${fName} and my repo count is ${repoCount}`);
 
+console.log(`hasfdjhafdjh ${fName} ihjsadflash ${repoCount}`);
+console.log("kjhadfajh "+ fName + " kuhdfashklh");

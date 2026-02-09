@@ -79,3 +79,17 @@ userBooks = books.filter( (bk) => {
     return bk.publish >= 1995 && bk.genre === 'History'})
 console.log(userBooks);
 
+const func = (num1, num2) => {
+  const result = num1+ num2 
+  return result
+}
+
+console.log(func(4,2));
+
+let arr = [1,2,3,4,5,1,3,4]
+let obj = {
+  fname: "Chirag",
+  price: 50
+}
+
+console.log(arr.sort());
